@@ -4,4 +4,4 @@ Currently I am studying web applications using ReactJs, NodeJs and SQLServer.
 My personal e-mail is: ricajaeschke@gmail.com
 My linkedIn: https://www.linkedin.com/in/ricardojaeschkejacobs/
 
-Feel free to contact me about any challenges regarding coding :)
+Feel free to contact me about any challenges regarding coding.
